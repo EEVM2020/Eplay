@@ -1,0 +1,223 @@
+
+.btnModal{
+    border-radius: 20px ;
+}
+
+
+.btnModal:hover{
+    background-color: white;
+    color: #180319;
+}
+
+
+.bordeModal{
+    border-radius: 30px ;
+}
+
+.btnCerrModal{
+   
+    color: white;
+    border-radius: 0px 30px 0px 0px !important;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+}
+
+.btnSig{
+    position: fixed;
+    right: 15px;
+    bottom: 40px;
+    width: 52px;
+}
+
+.btnInha{
+    color: #fff;
+    background-color: #180319;
+    border-color: #fff;
+    opacity: .65;
+}
+
+.btnSig:hover{
+    background-color: white;
+    color: #180319;
+}
+
+.inconBtn{
+    padding: 7px;
+    border: solid 1px;
+    border-radius: 5px;
+    background: #400040;
+    width: 45px;
+    text-align: center;   
+}
+
+
+
+.colTit{
+    color: #14ffae;
+}
+
+.iteMenu{
+
+
+    margin: 18px 10% 21px;
+border-bottom: solid 1px #14ffae;
+border-radius: 20px;
+width: 80%;
+padding-bottom: 2px;
+}
+
+.bajContAct{
+    bottom: -20px;
+}
+
+.divImgAct2{
+    width: 200px;
+    text-align: center;
+    max-height: 257px;
+}
+
+.divImgAct2 img{
+    width: 235px ;
+    height:auto;
+}
+
+
+.divImgAct3{
+    width: 166px;
+    height: 200px;
+    border: 0.5px solid #300633 !important;
+    background: #ffffff4d !important;
+}
+
+.pTextAct3{
+    position: relative;
+    top: 0px;
+    color:#300633 ;
+}
+
+.imgAct3{
+    width:142px;
+}
+
+.ImgAct3Div{
+    margin-top: -13px;
+}
+
+.despleMen{
+    background: rgb(255, 255, 255) none repeat scroll 0% 0%;
+    border: 1px solid rgb(48, 6, 51);
+}
+
+.despleMen a{
+    color: rgb(48, 6, 51) !important;
+    padding: 6px 16px;
+border-bottom: solid 1px;
+}
+
+.despleMen a:hover{
+    color: #fff !important;
+background: #300633;
+}
+
+.despleMen a:focus{
+    color: #300633 !important;
+}
+
+
+.despleMen a:active{
+ color: #330435 !important;
+ background-color: #fff;
+}
+
+.scroll{
+    overflow-y: scroll;
+    height: 400px;
+}
+
+ul{
+    list-style:none;
+}
+
+
+.divAvaAct2{
+    height: 200px;
+    width: 100px;
+}
+
+.act2{
+    position: fixed;
+bottom: 2%;
+width: 85%;
+margin: 0;
+    margin-top: 0px;
+}
+.tapar{
+    background: #fff;
+    border: solid 2px #f1c599;
+}
+.divFrutas{
+    border-style: dashed;
+border-radius: 30px;
+margin: 20px;
+border-color: #dee2e6;
+background: #ffffff2b;
+}
+.selImg{
+    border: dashed #59375ba3 2px;
+    background: #59375b42;
+}
+
+.opcionAct7{
+    border: solid 2px #dee2e6;
+border-radius: 30px;
+background: aliceblue;
+}
+
+.opcionAct7-hover{
+    cursor: pointer;
+    border: solid 2px #28292ba3;
+    border-radius: 30px;
+    background: #c1c9d0
+}
+
+#imgsAct7{
+    width: 40%;
+}
+
+#tituloAct7:hover{
+    cursor: pointer;
+    font-size: 29px;
+}
+
+.piezaSelAct8{
+    border: solid #dee2e6 2px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+border-style: dashed;
+padding: 6px;
+background: aliceblue;
+}
+
+.contenePiezaAct8{
+   
+    border: solid 2px #dee2e6;
+}
+.contenePiezaActSel8{
+    background: #c4d6e6;
+}
+
+.piezaAct9Sel{
+    width: 90%;
+}
+
+.textoIngles{
+    color: #fb8ef6 !important;
+}
